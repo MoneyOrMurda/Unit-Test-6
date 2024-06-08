@@ -20,7 +20,7 @@ appium
 
 Шаг 2: Установка эмулятора для Android
 
-1. Установите Android Studio и настройте эмулятор:
+1. Установите Android Studio и настройте эмулятор.
 
 2. Запустите Android Studio.
 
